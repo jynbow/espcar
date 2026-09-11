@@ -1,0 +1,19 @@
+# Videos y medios pesados
+*.mp4
+*.avi
+*.png
+*.jpg
+*.jpeg
+
+# Archivos de simuladores e instaladores
+*.exe
+*.slx
+*.autosave
+*Installer*
+
+# Entornos de desarrollo y compilacion
+.idea/
+cmake-build-*/
+CMakeUserPresets.json
+bin/
+obj/
